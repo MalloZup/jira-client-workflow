@@ -15,8 +15,7 @@ In this doc, `TEAM` is a fake name for your project name or issue-names etc. Use
 1) List my issue open from Project
 
 ```
-jira l
-ist -p TEAM -u dmaiocchi  -S open
+jira list -p TEAM -u dmaiocchi  -S open
 ```
 
 2) Open issue in browser:
